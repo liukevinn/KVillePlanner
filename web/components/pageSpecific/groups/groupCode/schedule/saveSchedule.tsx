@@ -17,7 +17,7 @@ const ExportToExcel = ({ data  } : {data : any}) => {
   return (
     <Button variant="contained" color="primary" onClick={exportToExcel}>
       Export to Excel
-    </Button>
+    </Button> 
   );
 };
 
